@@ -33,9 +33,9 @@ import java.util.Arrays;
  * class to represent a data point with d dimensionality
  * 
  * @author      Sean Vogel
- * @zid         z1729629
- * @course      CSCI-490-D
- * @assignment  1
+ *  zid         z1729629
+ *  course      CSCI-490-D
+ *  assignment  1
  * 
  */
 public class Point {

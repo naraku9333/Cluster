@@ -34,9 +34,9 @@ import java.util.Random;
 /**
  *
  * @author      Sean Vogel
- * @zid         z1729629
- * @course      CSCI-490-D
- * @assignment  1
+ *  zid         z1729629
+ *  course      CSCI-490-D
+ *  assignment  1
  */
 public class Cluster {
 

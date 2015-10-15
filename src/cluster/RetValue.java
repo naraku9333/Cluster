@@ -37,10 +37,10 @@ package cluster;
  * Every index in clusters corresponds to same index in data points array
  * Ex: clusters[3] is the cluster assignment for data[3]
  * 
- * @author      Sean Vogel
- * @zid         z1729629
- * @course      CSCI-490-D
- * @assignment  1
+ *  author      Sean Vogel
+ *  zid         z1729629
+ *  course      CSCI-490-D
+ *  assignment  1
  */
 public class RetValue {
 
@@ -54,7 +54,12 @@ public class RetValue {
      */
     public int[] clusters;
 
-    RetValue(Point[] p, int[] a) {
+    /**
+     *
+     * @param p
+     * @param a
+     */
+    public RetValue(Point[] p, int[] a) {
         centers = p;
         clusters = a;
     }
